@@ -11,6 +11,11 @@ pnpm-debug.log*
 package-lock.json
 yarn.lock
 
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
 # Build outputs
 dist/
 build/
